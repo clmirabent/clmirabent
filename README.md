@@ -1,9 +1,9 @@
 ## Hi, I'm Carla 👋  I'm passionate about crafting digital experiences.
 
 
-- 👩🏻‍💻 I decided to switch careers path, from Marketing to Web Development a year ago cause I wanted to translate user needs into seamless web experiences (front-end & back-end)
-- 📚 I keep learning through side projects. My goal is to become an integral part of your team's success story.
-- ℹ️ Eager to expand my skill set, I'm open to learning any language, framework, or library not currently listed on my resume. 	
+- 👩🏻‍💻 I decided to switch careers path, from Marketing to Web Development a year ago cause I wanted to build digital products that solve real-world problems.
+- 📚 I keep learning through side projects, reading articles, books to keep updating my knowledge.
+- ℹ️ Eager to contribute to a team’s success and the development of cutting edge digital solutions. 
 
 
 
