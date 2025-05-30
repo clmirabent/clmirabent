@@ -1,9 +1,9 @@
 ## Hi, I'm Carla 👋  I'm passionate about crafting digital experiences.
 
 
-- 👩🏻‍💻 I decided to switch careers path, from Marketing to Web Development a year ago cause I wanted to build digital products that solve real-world problems.
-- 📚 I keep learning through side projects, reading articles, books to keep updating my knowledge.
-- ℹ️ Eager to contribute to a team’s success and the development of cutting edge digital solutions. 
+- 👩🏻‍💻 I decided to switch my career path from Marketing to Web Development because I wanted to build digital products that solve real-world problems.
+- 📚 I keep learning through side projects, reading articles, and books to keep updating my knowledge.
+- ℹ️ I'm eager to contribute to a team’s success and the development of cutting-edge digital solutions.
 
 
 
